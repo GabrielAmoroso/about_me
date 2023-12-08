@@ -1,4 +1,4 @@
-# about me
+# Hello :D
 
 My name is Gabriel Amoroso, and it's a pleasure to have you interested in my repositories! I work mainly with Python, but I'm familiar with SQL and R as well. 
 My primary focus fow now is data analysis (pre-processing, statistics and ETL) and data visualization (Tableau and Power BI), but I still have room for improvements on those areas and I do want to learn about new tools and technologies. 
